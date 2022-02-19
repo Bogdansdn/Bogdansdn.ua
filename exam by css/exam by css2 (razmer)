@@ -1,5 +1,5 @@
 <head>
-   <link rel="stylesheet" type="text/css" href="значения свойств CSS/exam by css2/style.css"/>
+   <link rel="stylesheet" type="text/css" href="/exam by css/style.css"/>
 </head>
 <p><strong>Задание на размеры</strong></p>
 <p>1. Сделайте так, чтобы "блок с текстом" занимал по ширине половину того блока в котором он находится.</p> (+)
